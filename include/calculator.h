@@ -9,4 +9,6 @@ public:
     double divide(double a, double b);
 };
 
+//modif
+
 #endif
