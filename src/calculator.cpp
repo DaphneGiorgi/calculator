@@ -14,6 +14,6 @@ double Calculator::multiply(double a, double b) {
 }
 
 double Calculator::divide(double a, double b) {
-    if (b == 0) throw std::invalid_argument("Division by zero");
+    if (b == 0) throw std::invalid_argument("Division par zéro non possible");
     return a / b;
 }
