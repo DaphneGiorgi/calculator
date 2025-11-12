@@ -1,4 +1,4 @@
-#include "Calculator.h"
+#include "calculator.h"
 #include <stdexcept>
 
 double Calculator::add(double a, double b) {
